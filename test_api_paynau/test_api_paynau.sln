@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_api_paynau", "test_api_paynau.csproj", "{D337AF78-AC7D-4166-9ADF-4A7921FC12B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectApi", "..\TestProjectApi\TestProjectApi.csproj", "{FCF34801-0FF3-4A28-8A93-21B6540BDD30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D337AF78-AC7D-4166-9ADF-4A7921FC12B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D337AF78-AC7D-4166-9ADF-4A7921FC12B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D337AF78-AC7D-4166-9ADF-4A7921FC12B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D337AF78-AC7D-4166-9ADF-4A7921FC12B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF34801-0FF3-4A28-8A93-21B6540BDD30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF34801-0FF3-4A28-8A93-21B6540BDD30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF34801-0FF3-4A28-8A93-21B6540BDD30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF34801-0FF3-4A28-8A93-21B6540BDD30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE2CB929-ED76-46DF-9252-4B8368AB7BB4}
+	EndGlobalSection
+EndGlobal
